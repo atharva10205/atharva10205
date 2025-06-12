@@ -1,6 +1,5 @@
-# 🚀 Full Stack Developer Portfolio
 
-Hi! I'm **Atharva**, a passionate Full Stack Developer who loves building end-to-end web applications with modern tech like React, Node.js, MongoDB, and more.
+Hi! I'm **Atharva**, a Full Stack Developer who builds end-to-end web applications with React, Node.js, MongoDB, and more.
 
 ---
 
@@ -11,8 +10,8 @@ Hi! I'm **Atharva**, a passionate Full Stack Developer who loves building end-to
 - ⚛️ React.js
 - 💨 Tailwind CSS / Bootstrap
 - ⚡ JavaScript (ES6+), HTML5, CSS3
-- 🔼 Next.js *(if applicable)*
-
+- 🔼 Next.js
+- 
 **Backend:**
 
 - 🟢 Node.js
@@ -22,50 +21,23 @@ Hi! I'm **Atharva**, a passionate Full Stack Developer who loves building end-to
 **Database:**
 
 - 🟡 MongoDB
-- 🐘 PostgreSQL *(if used)*
+- 🐘 PostgreSQL 
 
 **DevOps & Tools:**
 
 - 🐙 Git & GitHub
-- ☁️ Vercel / Netlify / Heroku / Render
-- 🧪 Postman, Insomnia
-- 🐳 Docker *(if used)*
-
----
-
-## 📂 Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **MyPortfolio** | React, Tailwind CSS | Personal portfolio showcasing skills and projects |
-| **Chat App** | React, Node.js, Socket.IO, MongoDB | Real-time chat app with WebSocket and login system |
-| **Pinterest Clone** | MERN Stack | Image sharing platform with AWS S3 image upload |
-| **Dashboard SaaS (Dashly)** | React, Next.js, API integrations | No-code business dashboard builder *(Work in progress)* |
-
----
-
-## 🚧 Currently Working On
-
-- 🔭 SaaS App "Dashly" – no-code dashboard builder
-- 🎯 Improving my DevOps & CI/CD skills
-- 🤝 Contributing to Open Source
-
----
-
-## 📈 GitHub Stats
-
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- ☁️ Vercel / Netlify / Render
+- 🧪 Postman
+- 🐳 Docker
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
+- 📧 Email: atharvapandhare3@gmail.com
+- contact : +91 8530920300
 
+- 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
