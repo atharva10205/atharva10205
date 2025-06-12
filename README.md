@@ -40,4 +40,3 @@ Hi! I'm **Atharva**, a Full Stack Developer who builds end-to-end web applicatio
 - 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
